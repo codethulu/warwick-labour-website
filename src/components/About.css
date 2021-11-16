@@ -1,13 +1,13 @@
 .about{
     height: auto;
-    margin: 50px;
-    padding: 50px;
+    margin: 1rem;
+
     width: auto;
     background-color: #dd0025;
     
 color: white;
 font-family: titillium;
-font-size: 16pt;
+
 }
 
 .about h1{
