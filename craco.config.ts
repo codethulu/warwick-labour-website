@@ -1,4 +1,5 @@
-// craco.config.js
+// craco.config.ts
+
 module.exports = {
 
     style: {
@@ -11,4 +12,4 @@ module.exports = {
     },
 
 }
-export { };
+export { }
