@@ -4,10 +4,6 @@
 import React from 'react'
 import './About.css'
 import { ParallaxBanner } from 'react-scroll-parallax';
-
-import "tailwindcss/tailwind.css"
-
-
 import p1 from '../images/parallax-1.png';
 import p2 from '../images/parallax-2.png';
 import p3 from '../images/parallax-3.png';
