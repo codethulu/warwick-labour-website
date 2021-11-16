@@ -1,0 +1,31 @@
+.main-graphic{
+    height: 800px;
+    width: 100%;
+    background-color: #dd0025;
+    text-align: center;
+
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.logo-container{
+    height: 400px;
+    width: 60%;
+    background-image: url(../images/logo-text.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+/* .logo-title{
+    display: inline-block;
+margin-top: 0;
+    font-family: oswald;
+    display: inline-block;
+    font-size: 80pt;
+} */

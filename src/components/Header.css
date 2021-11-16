@@ -1,0 +1,61 @@
+a{
+    text-decoration: none;
+}
+
+
+.nav-title{
+  cursor: pointer;
+    font-family: oswald;
+    font-size: 14pt;
+    color: white;
+    width:20%;
+    transition-duration: 0.5s;
+    margin:10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.nav-option{
+  display: inline;
+  cursor: pointer;
+}
+
+
+.nav-title:hover{
+  cursor: pointer;
+  font-style: italic;
+    transform: scale(1.05);
+}
+
+.nav-sticky{
+    position: fixed;
+  z-index: 2;
+  background: #dd0025;
+    
+    text-align: center;
+  width: 100%;
+  top:0;
+}
+
+.hover-underline-animation {
+    display: inline-block;
+    position: relative;
+    color: white
+  }
+  
+  .hover-underline-animation:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 4px;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .hover-underline-animation:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
