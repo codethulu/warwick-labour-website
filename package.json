@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://codethulu.github.io/warwick-labour-website",
   "dependencies": {
-    "@craco/craco": "^6.4.0",
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
@@ -49,8 +48,5 @@
   },
   "devDependencies": {
     "@types/react-scroll": "^1.8.3",
-    "autoprefixer": "^9.8.8",
-    "postcss": "^7.0.39",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   }
 }
