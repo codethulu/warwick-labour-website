@@ -18,6 +18,7 @@ class Exec extends React.Component {
         return (
 
             <>
+                <Element name="exec" className="element"></Element>
                 <div className='about'>
                     <h1 className='scaled-title'>MEET THE EXEC!</h1>
                     <p>Warwick Labour is run by its executive committee, elected at the Annual General Meeting at the end of term 2 or beginning of term 3. Caucus officers are elected within autonomous caucuses. The current exec as elected in June 2021 is as follows:</p>
