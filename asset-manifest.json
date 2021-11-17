@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/warwick-labour-website/static/css/main.7f6ea794.chunk.css",
-    "main.js": "/warwick-labour-website/static/js/main.f335e435.chunk.js",
-    "main.js.map": "/warwick-labour-website/static/js/main.f335e435.chunk.js.map",
-    "runtime-main.js": "/warwick-labour-website/static/js/runtime-main.bf248181.js",
-    "runtime-main.js.map": "/warwick-labour-website/static/js/runtime-main.bf248181.js.map",
-    "static/js/2.f02ba0be.chunk.js": "/warwick-labour-website/static/js/2.f02ba0be.chunk.js",
-    "static/js/2.f02ba0be.chunk.js.map": "/warwick-labour-website/static/js/2.f02ba0be.chunk.js.map",
-    "static/js/3.7538c973.chunk.js": "/warwick-labour-website/static/js/3.7538c973.chunk.js",
-    "static/js/3.7538c973.chunk.js.map": "/warwick-labour-website/static/js/3.7538c973.chunk.js.map",
+    "main.css": "/warwick-labour-website/static/css/main.d0b36921.chunk.css",
+    "main.js": "/warwick-labour-website/static/js/main.821d01a0.chunk.js",
+    "main.js.map": "/warwick-labour-website/static/js/main.821d01a0.chunk.js.map",
+    "runtime-main.js": "/warwick-labour-website/static/js/runtime-main.c4d62846.js",
+    "runtime-main.js.map": "/warwick-labour-website/static/js/runtime-main.c4d62846.js.map",
+    "static/js/2.a4644cda.chunk.js": "/warwick-labour-website/static/js/2.a4644cda.chunk.js",
+    "static/js/2.a4644cda.chunk.js.map": "/warwick-labour-website/static/js/2.a4644cda.chunk.js.map",
+    "static/js/3.cd5d704b.chunk.js": "/warwick-labour-website/static/js/3.cd5d704b.chunk.js",
+    "static/js/3.cd5d704b.chunk.js.map": "/warwick-labour-website/static/js/3.cd5d704b.chunk.js.map",
     "index.html": "/warwick-labour-website/index.html",
-    "static/css/main.7f6ea794.chunk.css.map": "/warwick-labour-website/static/css/main.7f6ea794.chunk.css.map",
-    "static/js/2.f02ba0be.chunk.js.LICENSE.txt": "/warwick-labour-website/static/js/2.f02ba0be.chunk.js.LICENSE.txt",
+    "static/css/main.d0b36921.chunk.css.map": "/warwick-labour-website/static/css/main.d0b36921.chunk.css.map",
+    "static/js/2.a4644cda.chunk.js.LICENSE.txt": "/warwick-labour-website/static/js/2.a4644cda.chunk.js.LICENSE.txt",
     "static/media/App.css": "/warwick-labour-website/static/media/TitilliumWeb-Regular.522ebad2.ttf",
+    "static/media/Exec.css": "/warwick-labour-website/static/media/exec-welfare.4b717afe.png",
     "static/media/MainGraphic.css": "/warwick-labour-website/static/media/logo-text.bf8acb49.png",
     "static/media/parallax-1.1bb4740a.png": "/warwick-labour-website/static/media/parallax-1.1bb4740a.png",
     "static/media/parallax-2.bb6c1005.png": "/warwick-labour-website/static/media/parallax-2.bb6c1005.png",
     "static/media/parallax-3.2400544b.png": "/warwick-labour-website/static/media/parallax-3.2400544b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf248181.js",
-    "static/js/2.f02ba0be.chunk.js",
-    "static/css/main.7f6ea794.chunk.css",
-    "static/js/main.f335e435.chunk.js"
+    "static/js/runtime-main.c4d62846.js",
+    "static/js/2.a4644cda.chunk.js",
+    "static/css/main.d0b36921.chunk.css",
+    "static/js/main.821d01a0.chunk.js"
   ]
 }
