@@ -40,11 +40,11 @@ strong{
     font-style: italic;
 }
 
-email-link{
+.email-link{
     color: #917f82;
 }
 
-email-link:hover{
+.email-link:hover{
     color: #dd0025;
     font-style: italic;
 }
