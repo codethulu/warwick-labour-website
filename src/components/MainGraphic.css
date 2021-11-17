@@ -7,6 +7,14 @@
     display: flex;
 justify-content: center;
 align-items: center;
+height: 18rem;
+
+}
+
+@media (min-width: 768px) { 
+    .main-graphic{
+        height: 75%;
+    }
 }
 
 .logo-container{

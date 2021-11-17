@@ -17,7 +17,7 @@ class Header extends React.Component {
         return (
             <div>
 
-                <div className={`nav-sticky text-sm sm:text-2xl`}>
+                <div className={`nav-sticky`}>
 
 
                     <Link activeClass="active" to="home" spy={true} smooth={true} offset={-120} duration={750} >

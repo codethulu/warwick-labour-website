@@ -10,9 +10,58 @@ font-family: titillium;
 
 }
 
-.about h1{
-    color: white;
-font-family: oswald;
-font-size: 60pt;
+.about p {
+    padding: 0.75rem;
+    font-size: 0.875rem;
+}
+@media (min-width: 768px) { 
+    .about p {
+        padding: 2.5rem;
+        font-size: 1.5rem;
+    }
 
 }
+
+.about h1{
+    color: white;
+    font-family: oswald;
+    padding: 0.75rem;
+    
+        
+}
+
+.title{
+    font-size: 60pt;
+}
+
+
+.scaled-title{
+    font-size: 28pt;
+ }
+
+ @media (min-width: 768px) { 
+    .scaled-title{
+       font-size: 60pt;
+    }
+   }
+
+
+@media (min-width: 768px) { 
+    .about h1{
+        padding: 2.5rem;
+    }
+ }
+
+ .parallax-banner{
+     display: none;
+ }
+
+ @media (min-width: 768px) { 
+    .parallax-banner{
+        display: block;
+    }
+ }
+
+
+
+

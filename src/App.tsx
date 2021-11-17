@@ -14,6 +14,7 @@ import {
 import Header from './components/Header';
 import MainGraphic from './components/MainGraphic';
 import About from './components/About';
+import Exec from './components/Exec';
 
 
 
@@ -25,6 +26,7 @@ export default class App extends Component {
         <Header />
         <MainGraphic />
         <About />
+        <Exec />
 
       </ParallaxProvider>
     );
