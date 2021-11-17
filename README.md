@@ -1,6 +1,6 @@
 # Warwick Labour Website Redesign
 
-The warwick labour website https://warwicklabour.org is in need of a redesign. Using React I am developing a more modern, streamlined, informative website for the society.
+The warwick labour website https://warwicklabour.org is in need of a redesign. Using React I am developing a more modern, streamlined, informative website for the society. An in-development preview build is available to view at https://codethulu.github.io/warwick-labour-website/ if you catch any issues, shoot me a message!
 
 ## Old website design
 <img width="1696" alt="image" src="https://user-images.githubusercontent.com/45674799/142136885-ef84031b-b38d-4f73-b1df-5cb51c0dbecc.png">
