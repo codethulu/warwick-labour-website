@@ -8,7 +8,12 @@ The warwick labour website https://warwicklabour.org is in need of a redesign. U
 ## My website design
 <img width="1723" alt="image" src="https://user-images.githubusercontent.com/45674799/142137056-6e66b001-cc5e-4d2b-9e3b-d775188d488b.png">
 
-My design utilises bright, modern, blocky elements that utilise the entire width of the display. Extending the design style of the logo, triangular accents are added throughout the page to add a sense of cohesiveness. 
+My design utilises bright, modern, blocky elements that utilise the entire width of the display. Extending the design style of the logo, triangular accents are added throughout the page to add a sense of cohesiveness. I have attempted to contain all useful information within one page with a permanently visible navigation bar at the top to keep the simple small, simple and lightweight while providing users will all necessary information about the society.
+
+### Fonts used
+
+Oswald for headers and primary elements
+Titillium Web for main content and secondary elements
 
 ### Colours used
 
