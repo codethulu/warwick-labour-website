@@ -4,6 +4,7 @@
 
     width: auto;
     background-color: #dd0025;
+	padding-bottom: 100px;
     
 color: white;
 font-family: titillium;
@@ -62,6 +63,8 @@ font-family: titillium;
 	display: inline-block;
 	margin: 20px;
 }
+
+
 
 .main{
 	width: 90%;

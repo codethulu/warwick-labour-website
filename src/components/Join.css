@@ -1,0 +1,129 @@
+.join{
+    height: auto;
+    margin: 1rem;
+    width: auto;
+    background-color: #392d2f;
+    
+color: white;
+font-family: titillium;
+
+}
+
+.join p {
+    padding: 0.75rem;
+    font-size: 0.875rem;
+}
+@media (min-width: 768px) { 
+    .join p {
+        padding: 2.5rem;
+        font-size: 1.5rem;
+    }
+
+}
+
+.join h1{
+    color: white;
+    font-family: oswald;
+    padding: 0.75rem;
+    
+        
+}
+
+.title{
+    font-size: 60pt;
+}
+
+strong{
+    color: #dd0025;
+    font-style: italic;
+}
+
+
+
+@media (min-width: 768px) { 
+    .join h1{
+        padding: 2.5rem;
+    }
+ }
+
+ .parallax-banner{
+     display: none;
+ }
+
+ @media (min-width: 768px) { 
+    .parallax-banner{
+        display: block;
+    }
+ }
+
+ .join-button{
+     background-image: url(../images/join-button.png);
+     background-position: center;
+     background-size: contain;
+     background-repeat: no-repeat;
+     height: 300px;
+     width: 500px;
+     margin: auto;
+     transition-duration: 0.2s;
+     
+ }
+ @media (min-width: 768px) { 
+    .join-button{
+        height: 500px;
+     width: 700px;
+    }
+}
+
+ .join-button:hover{
+    transform: scale(1.1);
+    cursor:pointer;
+ }
+.social-container{
+    width: auto;
+    height: 300px;
+    margin: 20px;
+    text-align: center;
+}
+
+.social-button{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition-duration: 0.2s;
+    margin: 10px;
+}
+@media (min-width: 768px) { 
+    .social-button{
+        width: 150px;
+    height: 150px;
+
+    }
+}
+@media (min-width: 1200px) { 
+    .social-button{
+        width: 250px;
+    height: 250px;
+
+    }
+}
+
+.social-button:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+
+}
+.twitter{
+    background-image: url(../images/button-twitter.png);
+}
+.facebook{
+    background-image: url(../images/button-facebook.png);
+}
+.instagram{
+    background-image: url(../images/button-instagram.png);
+}
+.discord{
+    background-image: url(../images/button-discord.png);
+}

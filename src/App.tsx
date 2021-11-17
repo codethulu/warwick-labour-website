@@ -15,6 +15,7 @@ import Header from './components/Header';
 import MainGraphic from './components/MainGraphic';
 import About from './components/About';
 import Exec from './components/Exec';
+import Join from './components/Join';
 
 
 
@@ -27,6 +28,7 @@ export default class App extends Component {
         <MainGraphic />
         <About />
         <Exec />
+        <Join />
 
       </ParallaxProvider>
     );

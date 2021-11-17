@@ -35,15 +35,7 @@ font-family: titillium;
 }
 
 
-.scaled-title{
-    font-size: 28pt;
- }
 
- @media (min-width: 768px) { 
-    .scaled-title{
-       font-size: 60pt;
-    }
-   }
 
 
 @media (min-width: 768px) { 
