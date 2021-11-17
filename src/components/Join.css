@@ -9,6 +9,8 @@ font-family: titillium;
 
 }
 
+
+
 .join p {
     padding: 0.75rem;
     font-size: 0.875rem;
@@ -34,6 +36,15 @@ font-family: titillium;
 }
 
 strong{
+    color: #dd0025;
+    font-style: italic;
+}
+
+a{
+    color: #917f82;
+}
+
+a:hover{
     color: #dd0025;
     font-style: italic;
 }
@@ -80,9 +91,25 @@ strong{
  }
 .social-container{
     width: auto;
-    height: 300px;
+    height: 150px;
     margin: 20px;
     text-align: center;
+}
+
+@media (min-width: 768px) { 
+    .social-container{
+
+    height: 200px;
+
+    }
+}
+
+@media (min-width: 1200px) { 
+    .social-container{
+
+    height: 300px;
+
+    }
 }
 
 .social-button{
@@ -113,6 +140,7 @@ strong{
 .social-button:hover{
     transform: scale(1.1);
     cursor: pointer;
+    
 
 }
 .twitter{
