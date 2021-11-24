@@ -16,6 +16,7 @@ import MainGraphic from './components/MainGraphic';
 import About from './components/About';
 import Exec from './components/Exec';
 import Join from './components/Join';
+import Footer from './components/Footer';
 
 
 
@@ -29,9 +30,9 @@ export default class App extends Component {
         <About />
         <Exec />
         <Join />
+        <Footer />
 
       </ParallaxProvider>
     );
   }
 }
-
