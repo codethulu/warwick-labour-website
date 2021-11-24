@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/warwick-labour-website/static/css/main.03caa9d1.chunk.css",
+    "main.css": "/warwick-labour-website/static/css/main.85f1c0e5.chunk.css",
     "main.js": "/warwick-labour-website/static/js/main.be6b821a.chunk.js",
     "main.js.map": "/warwick-labour-website/static/js/main.be6b821a.chunk.js.map",
     "runtime-main.js": "/warwick-labour-website/static/js/runtime-main.82e5d2a9.js",
@@ -10,7 +10,7 @@
     "static/js/3.56b8928c.chunk.js": "/warwick-labour-website/static/js/3.56b8928c.chunk.js",
     "static/js/3.56b8928c.chunk.js.map": "/warwick-labour-website/static/js/3.56b8928c.chunk.js.map",
     "index.html": "/warwick-labour-website/index.html",
-    "static/css/main.03caa9d1.chunk.css.map": "/warwick-labour-website/static/css/main.03caa9d1.chunk.css.map",
+    "static/css/main.85f1c0e5.chunk.css.map": "/warwick-labour-website/static/css/main.85f1c0e5.chunk.css.map",
     "static/js/2.a4644cda.chunk.js.LICENSE.txt": "/warwick-labour-website/static/js/2.a4644cda.chunk.js.LICENSE.txt",
     "static/media/App.css": "/warwick-labour-website/static/media/TitilliumWeb-Regular.522ebad2.ttf",
     "static/media/Join.css": "/warwick-labour-website/static/media/join-button.14b1acf7.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.82e5d2a9.js",
     "static/js/2.a4644cda.chunk.js",
-    "static/css/main.03caa9d1.chunk.css",
+    "static/css/main.85f1c0e5.chunk.css",
     "static/js/main.be6b821a.chunk.js"
   ]
 }
