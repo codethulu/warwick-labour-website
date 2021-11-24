@@ -22,6 +22,7 @@ a{
 .nav-title:hover{
   cursor: pointer;
   font-style: italic;
+  text-decoration: none;
     transform: scale(1.05);
 }
 
