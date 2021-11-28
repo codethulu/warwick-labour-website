@@ -94,7 +94,7 @@ class Exec extends React.Component {
                                         <div className="ch-info-back">
                                             <h2>Kieron</h2>
                                             <h3>External Campaigns | He/Him</h3>
-                                            <p></p>
+                                            <p>Hi I’m Kieron, a Politics and International Studies finalist. I’m responsible for organising the society’s campaigning activities within the local area.</p>
                                         </div>
                                     </div>
                                 </div>
