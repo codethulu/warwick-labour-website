@@ -34,7 +34,7 @@ class Join extends React.Component {
                     <p>We also post our events on our socials, so please consider following them to get convenient updates and news!
                         Any other questions, issues or suggestions? You are welcome to message us on any of our social media platforms listed above, or you can email us!</p>
                     <p>General Inquiries: <a className='email-link' href="mailto: labourwarwick@gmail.com">labourwarwick@gmail.com</a></p>
-                    <p>Technical Issues: <a className='email-link' href="mailto: brendan.bell@warwick.ac.uk">brendan.bell@warwick.ac.uk</a></p>
+                    <p>Technical Issues: <a className='email-link' href="mailto: brendan@codethulu.dev">brendan@codethulu.dev</a></p>
 
 
                 </div>
