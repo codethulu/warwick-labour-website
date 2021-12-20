@@ -1,0 +1,90 @@
+.current{
+    border-radius: 100px 10px 100px;
+    height: auto;
+    margin: 0.5rem;
+
+    width: auto;
+    background-color: #dd0025;
+    
+color: white;
+font-family: titillium;
+
+}
+
+.latest-block{
+    display: inline-block;
+    height: 100vw;
+    width:100%;
+    margin: auto;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.latest-feed{
+    text-align: center;
+}
+.l-1{
+    background-image: url(../images/new\ year\ elections.png); 
+}
+.l-3{
+    background-image: url(../images/cov-south.png); 
+}
+
+.about p {
+    padding: 0.75rem;
+    font-size: 0.875rem;
+}
+@media (min-width: 768px) { 
+    .about p {
+        padding: 2.5rem;
+        font-size: 1.5rem;
+    }
+    .latest-block{
+        margin: 30px;
+        display: inline-block;
+        width:25%;
+        height: 25vw;
+        transition-duration: 0.5s;
+        box-shadow: 10px 10px white;
+    }
+
+    .latest-block:hover{
+        transform: scale(1.1);
+        box-shadow: 5px;
+        box-shadow: 5px 20px white;
+    }
+
+}
+
+.about h1{
+    color: white;
+    font-family: oswald;
+    padding: 0.75rem;
+    
+        
+}
+
+.title{
+    font-size: 60pt;
+}
+
+
+
+
+
+@media (min-width: 768px) { 
+    .about h1{
+        padding: 2.5rem;
+    }
+ }
+
+ .parallax-banner{
+     display: none;
+ }
+
+ @media (min-width: 768px) { 
+    .parallax-banner{
+        display: block;
+    }
+ }

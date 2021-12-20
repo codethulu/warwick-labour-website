@@ -17,6 +17,7 @@ import About from './components/About';
 import Exec from './components/Exec';
 import Join from './components/Join';
 import Footer from './components/Footer';
+import Current from './components/Current';
 
 
 
@@ -27,6 +28,7 @@ export default class App extends Component {
         <Element name="home" className="element"></Element>
         <Header />
         <MainGraphic />
+        <Current />
         <About />
         <Exec />
         <Join />

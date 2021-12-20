@@ -1,6 +1,7 @@
 .about{
+    border-radius: 100px 10px 100px;
     height: auto;
-    margin: 1rem;
+    margin: 0.5rem;
 
     width: auto;
     background-color: #dd0025;
@@ -53,7 +54,3 @@ font-family: titillium;
         display: block;
     }
  }
-
-
-
-

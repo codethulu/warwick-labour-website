@@ -7,7 +7,7 @@ class MainGraphic extends React.Component {
     render() {
         return (
 
-            <div className='main-graphic h-72 sm:h-3/4'>
+            <div className='main-graphic h-100 sm:h-3/4'>
                 <div className='logo-container'>
                     <div className='logo-image'></div>
 

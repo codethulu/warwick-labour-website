@@ -1,5 +1,5 @@
 .main-graphic{
-    height: auto;
+    height: 100%;
     width: 100%;
     background-color: #dd0025;
     text-align: center;
@@ -18,7 +18,7 @@ height: 25rem;
 }
 
 .logo-container{
-    height: 800px;
+    height: 100vh;
     width: 90%;
     background-image: url(../images/logo-text.png);
     background-size: contain;
@@ -27,7 +27,6 @@ height: 25rem;
     padding: 10px;
     text-align: center;
 }
-
 
 
 /* .logo-title{
