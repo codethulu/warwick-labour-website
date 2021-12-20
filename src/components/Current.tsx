@@ -22,7 +22,7 @@ class About extends React.Component {
 
             <>
                 <div className='about'>
-                    <h1 className='title'>THE LATEST</h1>
+                    <h1 className='scaled-title'>THE LATEST</h1>
                     <div className='latest-feed'>
                         <div className='latest-block l-1'></div>
                         <div className='latest-block l-3'></div>

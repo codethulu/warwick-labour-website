@@ -1,5 +1,5 @@
 .current{
-    border-radius: 100px 10px 100px;
+    border-radius: 50px 10px 50px;
     height: auto;
     margin: 0.5rem;
 
@@ -31,12 +31,12 @@ font-family: titillium;
     background-image: url(../images/cov-south.png); 
 }
 
-.about p {
+.current p {
     padding: 0.75rem;
     font-size: 0.875rem;
 }
 @media (min-width: 768px) { 
-    .about p {
+    .current p {
         padding: 2.5rem;
         font-size: 1.5rem;
     }
