@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/warwick-labour-website/static/css/main.d905374a.chunk.css",
-    "main.js": "/warwick-labour-website/static/js/main.62fc679c.chunk.js",
-    "main.js.map": "/warwick-labour-website/static/js/main.62fc679c.chunk.js.map",
-    "runtime-main.js": "/warwick-labour-website/static/js/runtime-main.23abc7ff.js",
-    "runtime-main.js.map": "/warwick-labour-website/static/js/runtime-main.23abc7ff.js.map",
-    "static/js/2.582c42d1.chunk.js": "/warwick-labour-website/static/js/2.582c42d1.chunk.js",
-    "static/js/2.582c42d1.chunk.js.map": "/warwick-labour-website/static/js/2.582c42d1.chunk.js.map",
-    "static/js/3.6f924d22.chunk.js": "/warwick-labour-website/static/js/3.6f924d22.chunk.js",
-    "static/js/3.6f924d22.chunk.js.map": "/warwick-labour-website/static/js/3.6f924d22.chunk.js.map",
-    "index.html": "/warwick-labour-website/index.html",
-    "static/css/main.d905374a.chunk.css.map": "/warwick-labour-website/static/css/main.d905374a.chunk.css.map",
-    "static/js/2.582c42d1.chunk.js.LICENSE.txt": "/warwick-labour-website/static/js/2.582c42d1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/warwick-labour-website/static/media/TitilliumWeb-Regular.522ebad2.ttf",
-    "static/media/Join.css": "/warwick-labour-website/static/media/join-button.14b1acf7.png",
-    "static/media/Exec.css": "/warwick-labour-website/static/media/exec-welfare.4b717afe.png",
-    "static/media/MainGraphic.css": "/warwick-labour-website/static/media/logo-text.bf8acb49.png",
-    "static/media/parallax-1.1bb4740a.png": "/warwick-labour-website/static/media/parallax-1.1bb4740a.png",
-    "static/media/parallax-2.bb6c1005.png": "/warwick-labour-website/static/media/parallax-2.bb6c1005.png",
-    "static/media/parallax-3.2400544b.png": "/warwick-labour-website/static/media/parallax-3.2400544b.png"
+    "main.css": "/static/css/main.e1a3294f.chunk.css",
+    "main.js": "/static/js/main.4d4fb46c.chunk.js",
+    "main.js.map": "/static/js/main.4d4fb46c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fbceecd2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fbceecd2.js.map",
+    "static/js/2.a4644cda.chunk.js": "/static/js/2.a4644cda.chunk.js",
+    "static/js/2.a4644cda.chunk.js.map": "/static/js/2.a4644cda.chunk.js.map",
+    "static/js/3.553f4e7f.chunk.js": "/static/js/3.553f4e7f.chunk.js",
+    "static/js/3.553f4e7f.chunk.js.map": "/static/js/3.553f4e7f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e1a3294f.chunk.css.map": "/static/css/main.e1a3294f.chunk.css.map",
+    "static/js/2.a4644cda.chunk.js.LICENSE.txt": "/static/js/2.a4644cda.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/TitilliumWeb-Regular.522ebad2.ttf",
+    "static/media/Join.css": "/static/media/join-button.14b1acf7.png",
+    "static/media/Current.css": "/static/media/new year elections.8c6fdc20.png",
+    "static/media/Exec.css": "/static/media/exec-welfare.4b717afe.png",
+    "static/media/MainGraphic.css": "/static/media/logo-text.55f79648.png",
+    "static/media/parallax-1.1bb4740a.png": "/static/media/parallax-1.1bb4740a.png",
+    "static/media/parallax-2.bb6c1005.png": "/static/media/parallax-2.bb6c1005.png",
+    "static/media/parallax-3.2400544b.png": "/static/media/parallax-3.2400544b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.23abc7ff.js",
-    "static/js/2.582c42d1.chunk.js",
-    "static/css/main.d905374a.chunk.css",
-    "static/js/main.62fc679c.chunk.js"
+    "static/js/runtime-main.fbceecd2.js",
+    "static/js/2.a4644cda.chunk.js",
+    "static/css/main.e1a3294f.chunk.css",
+    "static/js/main.4d4fb46c.chunk.js"
   ]
 }
