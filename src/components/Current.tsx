@@ -25,7 +25,7 @@ class About extends React.Component {
                     <h1 className='scaled-title'>THE LATEST</h1>
                     <div className='latest-feed'>
                         <div className='latest-block l-1'></div>
-                        <div className='latest-block l-3'></div>
+                        <div className='latest-block l-2'></div>
                     </div>
 
                 </div>

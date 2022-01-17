@@ -3,7 +3,8 @@
 
 import React from 'react'
 import './Exec.css'
-
+import ExecList from '../data/ExecList';
+import ExecCard from './ExecCard';
 
 import {
 
@@ -26,139 +27,11 @@ class Exec extends React.Component {
                     <section className="main">
 
                         <ul className="ch-grid">
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-chair"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Will</h2>
-                                            <h3>Chair | He/Him</h3>
-                                            Hi, I’m the Chair of the society and a 4th year Mechanical Engineering Student passionate about campaigning for socialism and liberation.
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-deputy-chair"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Hannah</h2>
-                                            <h3>Deputy Chair | She/Her</h3>
-                                            <h3>& Talks and Events</h3>
-                                            Hi, I’m a third year biology student and I care a lot about the links between feminism, socialism and the environment.
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-secretary"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Brendan</h2>
-                                            <h3>Secretary | He/Him</h3>
-                                            Hi, I’m a 2nd year computer science student and Secretary for the society. I also designed and coded this website, so let me know if there are any issues with it!
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-treasurer"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Callum</h2>
-                                            <h3>Treasurer | He/Him</h3>
-                                            Hi, I’m Callum, a third year PPL student and the treasurer of the society. My role is to set the society’s budget and provide funds for events, speakers, and the annual Red tie dinner.
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-internal"></div>
-                                        <div className="ch-info-back">
-                                            <h2>John</h2>
-                                            <h3>Internal Campaigns | He/Him</h3>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-external"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Kieron</h2>
-                                            <h3>External Campaigns | He/Him</h3>
-                                            Hi I’m Kieron, a Politics and International Studies finalist. I’m responsible for organising the society’s campaigning activities within the local area.
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-socsec"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Sebastian</h2>
-                                            <h3>Social Secretary | He/Him</h3>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-welfare"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Grace</h2>
-                                            <h3>Welfare Officer | She/They</h3>
-                                            I am currently in my first year studying Politics and International Studies. I am responsible for ensuring the wellbeing of our members.
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-lo-w"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Esme</h2>
-                                            <h3>Women's Officer | She/Her</h3>
-                                            Hello I’m Esme and I’m a 3rd year Art History student and I’m the Women’s officer! I run a weekly caucus for female and non-binary members of the society.
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-lo-t"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Abi</h2>
-                                            <h3>Trans Officer | She/Her</h3>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div className="ch-item">
-                                    <div className="ch-info">
-                                        <div className="ch-info-front exec-lo-b"></div>
-                                        <div className="ch-info-back">
-                                            <h2>Maureen</h2>
-                                            <h3>BAME Officer | She/Her</h3>
-                                            I’m the BAME Officer as well a first year Politics and Sociology student. My role is to create an inclusive space for black and brown voices so please get in touch with any suggestions/concerns.
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
+                            {ExecList.map((e) => {
+                                return (
+                                    <ExecCard position={e.position} name={e.name} pronouns={e.pronouns} description={e.description} />
+                                );
+                            })}
                         </ul>
 
                     </section>

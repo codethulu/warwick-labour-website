@@ -134,38 +134,38 @@ font-family: titillium;
 	opacity: 0;
 }
 
-.exec-chair{
+.exec-Chair{
     background-image: url(../images/exec-chair.png);
 }
 
-.exec-deputy-chair{
+.exec-Deputy-Chair{
     background-image: url(../images/exec-deputy-chair.png);
 }
-.exec-secretary{
+.exec-Secretary{
     background-image: url(../images/exec-secretary.png);
 }
-.exec-treasurer{
+.exec-Treasurer{
     background-image: url(../images/exec-treasurer.png);
 }
-.exec-internal{
+.exec-Internal-Campaigns{
     background-image: url(../images/exec-internal.png);
 }
-.exec-external{
+.exec-External-Campaigns{
     background-image: url(../images/exec-external.png);
 }
-.exec-socsec{
+.exec-Social-Secretary{
     background-image: url(../images/exec-socsec-default.png);
 }
-.exec-welfare{
+.exec-Welfare{
     background-image: url(../images/exec-welfare.png);
 }
-.exec-lo-w{
+.exec-Womens-Officer{
     background-image: url(../images/exec-lo-w.png);
 }
-.exec-lo-t{
+.exec-Trans-Officer{
     background-image: url(../images/exec-lo-t-default.png);
 }
-.exec-lo-b{
+.exec-BAME-Officer{
     background-image: url(../images/exec-lo-b.png);
 }
 .ch-info h2 {
