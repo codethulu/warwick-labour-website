@@ -28,7 +28,7 @@ export default class App extends Component {
         <Element name="home" className="element"></Element>
         <Header />
         <MainGraphic />
-        <Current />
+        {/* <Current /> */}
         <About />
         <Exec />
         <Join />

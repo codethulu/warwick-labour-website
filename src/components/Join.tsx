@@ -19,9 +19,9 @@ class Join extends React.Component {
 
             <>
                 <Element name="join" className="element"></Element>
-                <div className='join'>
+                <div className='container'>
 
-                    <h1 className='scaled-title'>WANT TO GET INVOLVED?</h1>
+                    <h1>WANT TO GET INVOLVED?</h1>
                     <p>Joining the society is the easiest way to keep up with what the society is doing. Doing so is <strong>FREE</strong> through the SU! Join to get involved in our campaigns, our socials to meet other left wing students on campus, and the wider labour community in the Warwick/Coventry area! The society is great for listening to exclusive speakers and getting involved in campaigns that matter and getting real political experience.</p>
                     <a href='https://www.warwicksu.com/shop/product/1785/'><div className='join-button'></div></a>
 

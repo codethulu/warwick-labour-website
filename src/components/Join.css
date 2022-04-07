@@ -38,7 +38,6 @@ font-family: titillium;
 
 strong{
     color: #dd0025;
-    font-style: italic;
 }
 
 .email-link{
@@ -47,7 +46,6 @@ strong{
 
 .email-link:hover{
     color: #dd0025;
-    font-style: italic;
 }
 
 

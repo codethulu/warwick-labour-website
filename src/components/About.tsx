@@ -22,7 +22,7 @@ class About extends React.Component {
 
             <>
                 <Element name="about" className="element"></Element>
-                <div className='about'>
+                <div className='container'>
                     <h1 className='title'>ABOUT</h1>
                     <p>Welcome to the University of Warwick Labour Society! (Warwick Labour for short). As a society we’re committed to the aims and values of the Labour Party, to Socialism and the Liberation of all people, we fight to keep Labour true to this.
 
@@ -30,31 +30,7 @@ class About extends React.Component {
 
                         We’re very friendly and love welcoming new members! So check out our Facebook page and our Facebook Discussion Group for all the latest updates, insights and to see how to get involved.</p>
                 </div>
-                <div className='parallax-banner'>
-                    <ParallaxBanner
-                        layers={[
-                            {
-                                expanded: false,
-                                image: p1,
-                                amount: 0.1,
-                            },
-                            {
-                                expanded: false,
-                                image: p2,
-                                amount: 0.3,
-                            },
-                            {
-                                expanded: false,
-                                image: p3,
-                                amount: 0.5,
-                            },
-                        ]}
-                        style={{
-                            height: "800px",
-                        }}
-                    >
-                    </ParallaxBanner>
-                </div>
+
             </>
 
 
