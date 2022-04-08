@@ -63,3 +63,9 @@
    
 }
 }
+.email-link{
+    text-decoration: underline;
+}
+.email-link:hover{
+    color: #dd0025;
+}
