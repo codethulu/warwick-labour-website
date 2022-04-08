@@ -54,3 +54,11 @@ font-family: titillium;
         display: block;
     }
  }
+
+.red-link{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.red-link:hover{
+    color: #dd0025;
+}

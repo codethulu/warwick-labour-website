@@ -1,172 +1,63 @@
-.join{
-    border-radius: 50px 10px 50px;
-    height: auto;
-    margin: 0.5rem;
-    width: auto;
-    background-color: #392d2f;
-    
-color: white;
-font-family: titillium;
-
-}
-
-.join p {
-    padding: 0.75rem;
-    padding-top: 0;
-    font-size: 0.875rem;
-}
-@media (min-width: 768px) { 
-    .join p {
-        padding: 2.5rem;
-        padding-top: 0;
-        font-size: 1.5rem;
-    }
-
-}
-
-.join h1{
-    color: white;
-    font-family: oswald;
-    padding: 0.75rem;
-    
-        
-}
-
-.title{
-    font-size: 60pt;
-}
-
-strong{
-    color: #dd0025;
-}
-
-.email-link{
-    color: #917f82;
-}
-
-.email-link:hover{
-    color: #dd0025;
-}
-
-
-
-@media (min-width: 768px) { 
-    .join h1{
-        padding: 2.5rem;
-    }
- }
-
- .parallax-banner{
-     display: none;
- }
-
- @media (min-width: 768px) { 
-    .parallax-banner{
-        display: block;
-    }
- }
-
- .join-button{
-     background-image: url(../images/join-button.png);
-     background-position: center;
-     background-size: contain;
-     background-repeat: no-repeat;
-     height: 170px;
-     width: 300px;
-     margin: auto;
-     transition-duration: 0.2s;
-     
- }
- @media (min-width: 768px) { 
-    .join-button{
-        height: 300px;
-     width: 700px;
-    }
-}
- @media (min-width: 1200px) { 
-    .join-button{
-        height: 400px;
-     width: 700px;
-    }
-}
-
- .join-button:hover{
-    transform: scale(1.1);
-    cursor:pointer;
- }
 .social-container{
-    width: auto;
-    height: 50px;
-    margin: 20px;
     text-align: center;
 }
+.join-button{
+    margin: auto;
+    display: block;
+    font-size: 30pt;
 
-@media (min-width: 768px) { 
-    .social-container{
-
-    height: 120px;
-
-    }
-    .join{
-        margin: 2rem;
-    }
 }
 
-@media (min-width: 1200px) { 
-    .social-container{
-
-    height: 270px;
-
-    }
+.join-button:hover{
+    margin: auto;
+    color: #dd0025;
+    text-decoration: none;
+    font-style: normal;
+   
 }
-
-.social-button{
+.social-link{
+    margin: auto;
     display: inline-block;
-    width: 50px;
-    height: 50px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    transition-duration: 0.2s;
-    margin: 5px;
+    padding: 10px;
+    padding-top: 0px;
+    font-size: 10pt;
 }
-@media (min-width: 375px) { 
-    .social-button{
-        width: 60px;
-    height: 60px;
 
-    }
+.social-link:hover{
+    margin: auto;
+    color: #dd0025;
+    text-decoration: none;
+    font-style: normal;
+   
 }
 @media (min-width: 768px) { 
-    .social-button{
-        width: 150px;
-    height: 150px;
-
-    }
-}
-@media (min-width: 1200px) { 
-    .social-button{
-        width: 250px;
-    height: 250px;
-
-    }
-}
-
-.social-button:hover{
-    transform: scale(1.1);
-    cursor: pointer;
-    
+    .join-button{
+    margin: auto;
+    display: block;
+    font-size: 70pt;
 
 }
-.twitter{
-    background-image: url(../images/button-twitter.png);
+
+.join-button:hover{
+    margin: auto;
+    color: #dd0025;
+    text-decoration: none;
+    font-style: normal;
+   
 }
-.facebook{
-    background-image: url(../images/button-facebook.png);
+.social-link{
+    margin: auto;
+    display: inline-block;
+    padding: 20px;
+    padding-top: 0px;
+    font-size: 30pt;
 }
-.instagram{
-    background-image: url(../images/button-instagram.png);
+
+.social-link:hover{
+    margin: auto;
+    color: #dd0025;
+    text-decoration: none;
+    font-style: normal;
+   
 }
-.discord{
-    background-image: url(../images/button-discord.png);
 }

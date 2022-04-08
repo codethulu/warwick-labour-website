@@ -70,6 +70,7 @@
     font-family: titillium;
     font-size: 11pt;
     margin: 0;
+    margin-top: 0px;
 }
 
 @media (min-width: 768px) { 
@@ -90,6 +91,7 @@
     font-family: titillium;
     font-size: 18pt;
     margin: 0;
+    margin-top: 20px;
 }
 
 }

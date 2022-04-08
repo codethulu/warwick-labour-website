@@ -1,0 +1,96 @@
+.exec-card{
+    display: inline-block;
+    background-color: rgb(245, 245, 245);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 200px;
+    margin: 2%;
+    height: 350px;
+    vertical-align: top;
+    border-radius: 15px;
+    white-space: normal;
+}
+.exec-card h2{
+    color: #282c34;
+    font-family: oswald;
+    margin: 0;
+    font-size: 15pt;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.exec-card h3{
+    color: #282c34;
+    font-family: oswald;
+    margin: 0;
+    font-size: 11pt;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+.exec-card p{
+    color: #282c34;
+    font-family: titillium;
+    font-size: 8pt;
+    padding: 10px;
+    margin: 0;
+    margin-top: 5px;
+}
+.exec-card-photo{
+    display: inline-block;
+    margin: auto;
+    width: 75px;
+    height: 75px;
+    border-radius: 15px;
+    margin: 10px;
+    background-color: rgb(92, 92, 92);
+}
+@media (min-width: 768px) {
+    .exec-card{
+    display: inline-block;
+    background-color: rgb(245, 245, 245);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 400px;
+    margin: 2%;
+    height: 550px;
+    vertical-align: top;
+    border-radius: 15px;
+    white-space: normal;
+}
+.exec-card h2{
+    color: #282c34;
+    font-family: oswald;
+    margin: 0;
+    font-size: 25pt;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.exec-card h3{
+    color: #282c34;
+    font-family: oswald;
+    margin: 0;
+    font-size: 15pt;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+.exec-card p{
+    color: #282c34;
+    font-family: titillium;
+    font-size: 13pt;
+    padding: 10px;
+    margin: 0;
+    margin-top: 5px;
+}
+.exec-card-photo{
+    display: inline-block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: rgb(92, 92, 92);
+}
+
+ }
+ .position-title{
+     background-color: #dd0025;
+     color: white;
+     padding: 5px;
+ }

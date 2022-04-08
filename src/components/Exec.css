@@ -217,3 +217,10 @@ font-family: titillium;
 	transform: rotate3d(1,0,0,0deg);
 	opacity: 1;
 }
+.card-container{
+	margin: auto;
+	text-align: center;
+	overflow-x: scroll;
+	height: auto;
+	white-space: nowrap;
+}
