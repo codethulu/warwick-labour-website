@@ -8,19 +8,20 @@ const ExecList = [
         id: ["1"]
     },
     {
-        position: ["Deputy Chair", "Treasurer"],
-        names: ["Brendan"],
-        pronouns: ["He/Him"],
-        description: "Hi, I'm Brendan [he/him] and I am Deputy Chair and Treasurer for the society. I am a second year Computer Science student, and have written the website you are currently viewing (so please get in contact with me if anything is broken)",
-        id: ["2"]
-    },
-    {
-        position: ["Secretary"],
+        position: ["Deputy Chair", "Secretary"],
         names: ["John"],
         pronouns: ["He/Him"],
         description: "Hi, I’m John (He/Him) a 1st year maths student and the Secretary of the society. If you have any questions about the society please get in touch!",
         id: ["3"]
     },
+    {
+        position: ["Treasurer"],
+        names: ["Brendan"],
+        pronouns: ["He/Him"],
+        description: "Hi, I'm Brendan [he/him] and I am Deputy Chair and Treasurer for the society. I am a second year Computer Science student, and have written the website you are currently viewing (so please get in contact with me if anything is broken)",
+        id: ["2"]
+    },
+
     {
         position: ["Talks & Events"],
         names: ["Lysander"],
@@ -44,10 +45,10 @@ const ExecList = [
     },
     {
         position: ["Social Secretary"],
-        names: ["Maureen", "Oli"],
-        pronouns: ["She/Her", "He/Him"],
-        description: "Hey, we’re your joint social secretaries and first year Maths (Oli) and Politics and Sociology (Maureen) students. We’re both very excited to plan this year’s lighthearted socials and are always open to suggestions.",
-        id: ["7", "8"]
+        names: ["Maureen"],
+        pronouns: ["She/Her"],
+        description: "Hey, i'm your social secretary. I study Politics and Sociology. I'm very excited to plan this year’s lighthearted socials and are always open to suggestions.",
+        id: ["7"]
     },
     {
         position: ["LGBTQ+ Officer"],

@@ -32,6 +32,9 @@ class Header extends React.Component {
                     <Link activeClass="active" to="join" spy={true} smooth={true} offset={0} duration={750} >
                         <a className='nav-title hover-underline-animation'>JOIN US</a>
                     </Link>
+                    <Link activeClass="active" to="join" spy={true} smooth={true} offset={0} duration={750} >
+                        <a className='nav-title hover-underline-animation'>BLOG</a>
+                    </Link>
                     {/* <Link activeClass="active" to="contact" spy={true} smooth={true} offset={-100} duration={750} >
                         <a className='nav-title hover-underline-animation'>CONTACT</a>
                     </Link> */}
