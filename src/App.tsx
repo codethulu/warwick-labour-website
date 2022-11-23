@@ -30,7 +30,9 @@ export default class App extends Component {
         <MainGraphic />
         {/* <Current /> */}
         <About />
+        <div className='divider' />
         <Exec />
+        <div className='divider' />
         <Join />
         <Footer />
 

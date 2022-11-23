@@ -4,43 +4,43 @@ const ExecList = [
         position: ["Chair"],
         names: ["Grace"],
         pronouns: ["She/They"],
-        description: "I am currently in my first year studying Politics and International Studies. I am Chair of the society.",
+        description: "I am currently in my second year studying Politics and International Studies. I am Chair of the society.",
         id: ["1"]
     },
     {
         position: ["Deputy Chair", "Secretary"],
         names: ["John"],
         pronouns: ["He/Him"],
-        description: "Hi, I’m John (He/Him) a 1st year maths student and the Secretary of the society. If you have any questions about the society please get in touch!",
+        description: "Hi, I’m John (He/Him) a 2nd year maths student and the Deputy Chair of the society. If you have any questions about the society please get in touch!",
         id: ["3"]
     },
     {
         position: ["Treasurer"],
         names: ["Brendan"],
         pronouns: ["He/Him"],
-        description: "Hi, I'm Brendan [he/him] and I am Deputy Chair and Treasurer for the society. I am a second year Computer Science student, and have written the website you are currently viewing (so please get in contact with me if anything is broken)",
+        description: "Hi, I'm Brendan [he/him] and I am Deputy Chair and Treasurer for the society. I am a third year Computer Science student, and have written the website you are currently viewing (so please get in contact with me if anything is broken)",
         id: ["2"]
     },
 
     {
         position: ["Talks & Events"],
-        names: ["Lysander"],
+        names: ["Aaron"],
         pronouns: ["He/Him"],
-        description: "I am currently in my first year studying history. My role centres around chats and other events within the society.",
+        description: "",
         id: ["4"]
     },
     {
         position: ["External Campaigns"],
         names: ["Kiki"],
         pronouns: ["She/Her"],
-        description: "Hey I’m Kiki, a second year politics student and Warwick Labour’s external campaigns officer. My role is to organise the society’s campaigning activities in the local area. Most of my weekends are spent campaigning with our local MP Zarah Sultana.",
+        description: "Hey I’m Kiki, a third year politics student and Warwick Labour’s external campaigns officer. My role is to organise the society’s campaigning activities in the local area. Most of my weekends are spent campaigning with our local MP Zarah Sultana.",
         id: ["5"]
     },
     {
         position: ["Welfare"],
         names: ["Nischal"],
         pronouns: ["He/Him"],
-        description: "Hi, I’m a second year Philosophy student who wants to help make the world a better place with everyone else!",
+        description: "Hi, I’m a third year Philosophy student who wants to help make the world a better place with everyone else!",
         id: ["6"]
     },
     {
@@ -54,7 +54,7 @@ const ExecList = [
         position: ["LGBTQ+ Officer"],
         names: ["Zuzanna"],
         pronouns: ["She/Her"],
-        description: "Hi! My name is Zuzanna (she/her) and I’m a first year Economics, Politics and International Studies student. I’m excited to be your LGBTQ+ Liberation Officer this year!!",
+        description: "Hi! My name is Zuzanna (she/her) and I’m a second year Economics, Politics and International Studies student. I’m excited to be your LGBTQ+ Liberation Officer this year!!",
         id: ["9"]
     },
     {
@@ -63,6 +63,62 @@ const ExecList = [
         pronouns: ["He/Him"],
         description: "Hey, I am the Warwick Labour  Trans Officer this year. I take Economics, Philosophy, and Psychology. I’m looking to increase the trans education available for both trans and cis students at Warwick. ",
         id: ["10"]
+    },
+    {
+        position: ["Fresher Rep"],
+        names: ["Yusuf"],
+        pronouns: ["He/Him"],
+        description: "",
+        id: ["11"]
+    },
+    {
+        position: ["Fresher Rep"],
+        names: ["Jasper"],
+        pronouns: ["He/Him"],
+        description: "",
+        id: ["12"]
+    },
+    {
+        position: ["Fresher Rep"],
+        names: ["Maddy"],
+        pronouns: ["She/They"],
+        description: "",
+        id: ["13"]
+    },
+    {
+        position: ["Fresher Rep"],
+        names: ["James"],
+        pronouns: ["He/Him"],
+        description: "",
+        id: ["14"]
+    },
+    {
+        position: ["Fresher Rep"],
+        names: ["James"],
+        pronouns: ["He/Him"],
+        description: "",
+        id: ["15"]
+    },
+    {
+        position: ["Fresher Rep"],
+        names: ["Abhay"],
+        pronouns: ["He/Him"],
+        description: "Hi guys! I'm a PPE student from Hong Kong. I'm looking forward to increasing our society's engagement with freshers and encouraging more people to write for our magazine: L.E.F.T!",
+        id: ["16"]
+    },
+    {
+        position: ["Fresher Rep"],
+        names: ["Ollie"],
+        pronouns: ["He/Him"],
+        description: "",
+        id: ["17"]
+    },
+    {
+        position: ["Fresher Rep"],
+        names: ["Mark"],
+        pronouns: ["He/Him"],
+        description: "",
+        id: ["18"]
     },
 
 

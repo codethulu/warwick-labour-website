@@ -134,40 +134,7 @@ font-family: titillium;
 	opacity: 0;
 }
 
-.exec-Chair{
-    background-image: url(../images/exec-chair.png);
-}
 
-.exec-Deputy-Chair{
-    background-image: url(../images/exec-deputy-chair.png);
-}
-.exec-Secretary{
-    background-image: url(../images/exec-secretary.png);
-}
-.exec-Treasurer{
-    background-image: url(../images/exec-treasurer.png);
-}
-.exec-Internal-Campaigns{
-    background-image: url(../images/exec-internal.png);
-}
-.exec-External-Campaigns{
-    background-image: url(../images/exec-external.png);
-}
-.exec-Social-Secretary{
-    background-image: url(../images/exec-socsec-default.png);
-}
-.exec-Welfare{
-    background-image: url(../images/exec-welfare.png);
-}
-.exec-Womens-Officer{
-    background-image: url(../images/exec-lo-w.png);
-}
-.exec-Trans-Officer{
-    background-image: url(../images/exec-lo-t-default.png);
-}
-.exec-BAME-Officer{
-    background-image: url(../images/exec-lo-b.png);
-}
 .ch-info h2 {
 	color: #fff;
 	text-transform: uppercase;

@@ -2,23 +2,23 @@
     text-align: center;
 }
 .join-button{
-    margin: auto;
-    font-family: oswald;
+
+    font-family: poppins;
     display: block;
     font-size: 30pt;
 
 }
 
 .join-button:hover{
-    margin: auto;
+
     color: #dd0025;
     text-decoration: none;
     font-style: normal;
    
 }
 .social-link{
-    font-family: oswald;
-    margin: auto;
+    font-family: poppins;
+
     display: inline-block;
     padding: 15px;
     padding-top: 0px;
@@ -26,7 +26,7 @@
 }
 
 .social-link:hover{
-    margin: auto;
+
     color: #dd0025;
     text-decoration: none;
     font-style: normal;
@@ -34,21 +34,21 @@
 }
 @media (min-width: 768px) { 
     .join-button{
-    margin: auto;
+
     display: block;
-    font-size: 70pt;
+    font-size: 50pt;
 
 }
 
 .join-button:hover{
-    margin: auto;
+
     color: #dd0025;
     text-decoration: none;
     font-style: normal;
    
 }
 .social-link{
-    margin: auto;
+
     display: inline-block;
     padding: 20px;
     padding-top: 0px;
@@ -56,7 +56,7 @@
 }
 
 .social-link:hover{
-    margin: auto;
+
     color: #dd0025;
     text-decoration: none;
     font-style: normal;

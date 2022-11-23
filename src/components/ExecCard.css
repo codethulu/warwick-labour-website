@@ -1,12 +1,11 @@
 .exec-card{
     display: inline-block;
-    background-color: rgb(245, 245, 245);
+    background-color: #dd0025;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     width: 200px;
     margin: 2%;
     height: 350px;
     vertical-align: top;
-    border-radius: 15px;
     white-space: normal;
 }
 .exec-card h2{
@@ -33,47 +32,39 @@
     margin: 0;
     margin-top: 5px;
 }
-.exec-card-photo{
-    display: inline-block;
-    margin: auto;
-    width: 75px;
-    height: 75px;
-    border-radius: 15px;
-    margin: 10px;
-    background-color: rgb(92, 92, 92);
-}
+
 @media (min-width: 768px) {
     .exec-card{
     display: inline-block;
-    background-color: rgb(245, 245, 245);
+    background-color: #dd0025;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    width: 400px;
-    margin: 2%;
-    height: 550px;
+    width: 380px;
+    margin: 1%;
+    height: 530px;
     vertical-align: top;
-    border-radius: 15px;
     white-space: normal;
 }
 .exec-card h2{
-    color: #282c34;
-    font-family: oswald;
+    color: #ffffff;
+    font-family: poppins;
     margin: 0;
     font-size: 25pt;
     text-transform: uppercase;
     margin-top: 10px;
 }
 .exec-card h3{
-    color: #282c34;
+    color: #ffffff;
     font-family: oswald;
     margin: 0;
-    font-size: 15pt;
+    font-size: 17pt;
     text-transform: uppercase;
     margin-top: 5px;
+    margin-bottom: 5px;
 }
 .exec-card p{
-    color: #282c34;
-    font-family: titillium;
-    font-size: 13pt;
+    color: #ffffff;
+    font-family: poppins;
+    font-size: 12pt;
     padding: 10px;
     margin: 0;
     margin-top: 5px;
@@ -83,14 +74,51 @@
     margin: auto;
     width: 150px;
     height: 150px;
-    border-radius: 30px;
     margin: 10px;
     background-color: rgb(92, 92, 92);
 }
 
  }
  .position-title{
-     background-color: #dd0025;
-     color: white;
+     background-color: #ffffff;
+     color: #dd0025;
      padding: 5px;
  }
+
+ .triangle-bottom {
+    width : 0px;
+    height : 0px;
+    border-bottom: 170px solid #000;
+    border-left: 170px solid transparent;
+ }
+
+.triangle-top {
+    width : 0px;
+    height : 0px;
+    border-top: 170px solid #000;
+    border-right: 170px solid transparent;
+}
+
+.foldtl{
+    position: relative;
+}
+
+.foldtl:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-right: 70px solid transparent;
+}
+.foldtl:after {
+  content: "";
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 0px;
+  height: 0px;
+  border-top: 69px solid  #282c34;
+  border-right: 69px solid transparent;
+}

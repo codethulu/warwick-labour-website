@@ -12,6 +12,10 @@ import {
 
 class Header extends React.Component {
 
+    warn() {
+        alert("We're working on our blog page, keep an eye out on our social media for updates!")
+    }
+
 
     render() {
         return (
@@ -32,9 +36,10 @@ class Header extends React.Component {
                     <Link activeClass="active" to="join" spy={true} smooth={true} offset={0} duration={750} >
                         <a className='nav-title hover-underline-animation'>JOIN US</a>
                     </Link>
-                    <Link activeClass="active" to="join" spy={true} smooth={true} offset={0} duration={750} >
+                    {/* <Link activeClass="active" to="join" spy={true} smooth={true} offset={0} duration={750} >
                         <a className='nav-title hover-underline-animation'>BLOG</a>
-                    </Link>
+                    </Link> */}
+                    <a onClick={this.warn} className='nav-title hover-underline-animation'>BLOG</a>
                     {/* <Link activeClass="active" to="contact" spy={true} smooth={true} offset={-100} duration={750} >
                         <a className='nav-title hover-underline-animation'>CONTACT</a>
                     </Link> */}
