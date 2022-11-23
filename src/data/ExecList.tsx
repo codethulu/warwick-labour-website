@@ -80,7 +80,7 @@ const ExecList = [
     },
     {
         position: ["Fresher Rep"],
-        names: ["Maddy"],
+        names: ["Mads"],
         pronouns: ["She/They"],
         description: "",
         id: ["13"]
