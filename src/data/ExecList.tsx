@@ -57,13 +57,13 @@ const ExecList = [
         description: "Hi! My name is Zuzanna (she/her) and I’m a second year Economics, Politics and International Studies student. I’m excited to be your LGBTQ+ Liberation Officer this year!!",
         id: ["9"]
     },
-    {
-        position: ["Trans Officer"],
-        names: ["Noah"],
-        pronouns: ["He/Him"],
-        description: "Hey, I am the Warwick Labour  Trans Officer this year. I take Economics, Philosophy, and Psychology. I’m looking to increase the trans education available for both trans and cis students at Warwick. ",
-        id: ["10"]
-    },
+    // {
+    //     position: ["Trans Officer"],
+    //     names: ["Noah"],
+    //     pronouns: ["He/Him"],
+    //     description: "Hey, I am the Warwick Labour  Trans Officer this year. I take Economics, Philosophy, and Psychology. I’m looking to increase the trans education available for both trans and cis students at Warwick. ",
+    //     id: ["10"]
+    // },
     {
         position: ["Fresher Rep"],
         names: ["Yusuf"],
