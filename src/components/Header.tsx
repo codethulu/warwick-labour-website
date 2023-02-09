@@ -1,4 +1,5 @@
 import React from 'react'
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import './Header.css'
 
 import {
@@ -10,10 +11,19 @@ import {
     scroller
 } from "react-scroll";
 
-class Header extends React.Component {
+export class Header extends React.Component {
 
     warn() {
         alert("We're working on our blog page, keep an eye out on our social media for updates!")
+    }
+
+    homeDirect() {
+        window.location.href = '/';
+    }
+
+    blogDirect() {
+        console.log("ok");
+        window.location.href = '/blog';
     }
 
 
@@ -39,7 +49,7 @@ class Header extends React.Component {
                     {/* <Link activeClass="active" to="join" spy={true} smooth={true} offset={0} duration={750} >
                         <a className='nav-title hover-underline-animation'>BLOG</a>
                     </Link> */}
-                    <a onClick={this.warn} className='nav-title hover-underline-animation'>BLOG</a>
+                    <a onClick={this.blogDirect} className='nav-title hover-underline-animation'>BLOG</a>
                     {/* <Link activeClass="active" to="contact" spy={true} smooth={true} offset={-100} duration={750} >
                         <a className='nav-title hover-underline-animation'>CONTACT</a>
                     </Link> */}
@@ -54,4 +64,44 @@ class Header extends React.Component {
         );
     }
 }
-export default Header;
+
+export class BlogHeader extends React.Component {
+
+    warn() {
+        alert("We're working on our blog page, keep an eye out on our social media for updates!")
+    }
+
+    homeDirect() {
+        window.location.href = '/';
+    }
+
+    blogDirect() {
+        console.log("ok");
+        window.location.href = '/blog';
+    }
+
+
+    render() {
+        return (
+            <div>
+
+                <div className={`nav-sticky`}>
+
+
+
+                    <a onClick={this.homeDirect} className={`nav-title hover-underline-animation`}> HOME</a>
+
+
+                    <a onClick={this.blogDirect} className='nav-title hover-underline-animation'>BLOG</a>
+
+
+
+
+
+                </div>
+
+
+            </div>
+        );
+    }
+}

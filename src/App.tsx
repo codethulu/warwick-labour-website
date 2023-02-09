@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import { ParallaxProvider } from 'react-scroll-parallax';
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
 
 import {
@@ -11,22 +12,43 @@ import {
   scrollSpy,
   scroller
 } from "react-scroll";
-import Header from './components/Header';
+import { Header, BlogHeader } from './components/Header';
 import MainGraphic from './components/MainGraphic';
 import About from './components/About';
 import Exec from './components/Exec';
 import Join from './components/Join';
 import Footer from './components/Footer';
+
+import Blog from './components/Blog';
+import BlogArticle from './components/BlogArticle';
+
 import Current from './components/Current';
+import { render } from '@testing-library/react';
 
 
 
 export default class App extends Component {
   render() {
     return (
+      <>
+        <BrowserRouter>
+          <Routes>
+            <Route path="/" element={<Main />} />
+            <Route path="/blog" element={<BlogPage />} />
+            <Route path="/blog/:id" element={<BlogArticlePage />} />
+          </Routes>
+        </BrowserRouter>
+      </>
+    );
+  }
+}
+
+const Main = () => {
+  return (
+    <>
+      <Element name="home" className="element"></Element>
+      <Header />
       <ParallaxProvider>
-        <Element name="home" className="element"></Element>
-        <Header />
         <MainGraphic />
         {/* <Current /> */}
         <About />
@@ -36,7 +58,31 @@ export default class App extends Component {
         <Join />
         <Footer />
 
-      </ParallaxProvider>
-    );
-  }
+      </ParallaxProvider >
+    </>
+  );
+}
+
+const BlogPage = () => {
+  return (
+    <>
+      <BlogHeader />
+      <Blog />
+    </>
+  );
+}
+
+const BlogArticlePage = () => {
+
+  //get the id from the url
+  const id = window.location.pathname.split("/")[2];
+  console.log(id);
+
+
+  return (
+    <>
+      <BlogHeader />
+      <BlogArticle />
+    </>
+  );
 }

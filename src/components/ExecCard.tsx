@@ -32,7 +32,6 @@ function projectCard(props: { position: string[], names: string[], pronouns: str
 
     props.id.forEach(function (i: string) {
         let source = process.env.PUBLIC_URL + 'images/' + i + '.png'
-        console.log(source)
         photos.push(
             <>
                 < img src={source} className={'exec-card-photo'}></img >
