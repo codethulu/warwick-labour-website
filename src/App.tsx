@@ -31,7 +31,7 @@ export default class App extends Component {
   render() {
     return (
       <>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Routes>
             <Route path="/" element={<Main />} />
             <Route path="/blog" element={<BlogPage />} />
@@ -75,10 +75,6 @@ const BlogPage = () => {
 const BlogArticlePage = () => {
 
   //get the id from the url
-  const id = window.location.pathname.split("/")[2];
-  console.log(id);
-
-
   return (
     <>
       <BlogHeader />

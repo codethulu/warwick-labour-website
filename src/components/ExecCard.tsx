@@ -42,10 +42,10 @@ function projectCard(props: { position: string[], names: string[], pronouns: str
     return (
 
         <div className='exec-card foldtl'>
-            <h2>{namesTitle}</h2>
-            <h3><span className='position-title'>{"(" + pronounsTitle + ")"}</span></h3>
+            <h2 className='cent' style={{ margin: "auto", textAlign: "center" }}>{namesTitle}</h2>
+            <h3 style={{ margin: "auto", textAlign: "center" }}><span className='position-title'>{"(" + pronounsTitle + ")"}</span></h3>
             {photos}
-            <h3><span className='position-title'>{positionTitle}</span></h3>
+            <h3 style={{ margin: "auto", textAlign: "center" }}><span className='position-title'>{positionTitle}</span></h3>
             <p>{props.description}</p>
         </div>
 

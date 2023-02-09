@@ -7,31 +7,9 @@
     height: 350px;
     vertical-align: top;
     white-space: normal;
+    text-align: center;
 }
-.exec-card h2{
-    color: #282c34;
-    font-family: oswald;
-    margin: 0;
-    font-size: 15pt;
-    text-transform: uppercase;
-    margin-top: 10px;
-}
-.exec-card h3{
-    color: #282c34;
-    font-family: oswald;
-    margin: 0;
-    font-size: 11pt;
-    text-transform: uppercase;
-    margin-top: 5px;
-}
-.exec-card p{
-    color: #282c34;
-    font-family: titillium;
-    font-size: 8pt;
-    padding: 10px;
-    margin: 0;
-    margin-top: 5px;
-}
+
 
 @media (min-width: 768px) {
     .exec-card{
@@ -43,11 +21,13 @@
     height: 530px;
     vertical-align: top;
     white-space: normal;
+    text-align: center;
 }
+
 .exec-card h2{
     color: #ffffff;
     font-family: poppins;
-    margin: 0;
+    margin: 0 auto;
     font-size: 25pt;
     text-transform: uppercase;
     margin-top: 10px;
@@ -55,7 +35,7 @@
 .exec-card h3{
     color: #ffffff;
     font-family: oswald;
-    margin: 0;
+    margin: 0 auto;
     font-size: 17pt;
     text-transform: uppercase;
     margin-top: 5px;
@@ -66,8 +46,10 @@
     font-family: poppins;
     font-size: 12pt;
     padding: 10px;
-    margin: 0;
+    margin: 0 auto;
     margin-top: 5px;
+    text-align: center;
+
 }
 .exec-card-photo{
     display: inline-block;
@@ -83,6 +65,7 @@
      background-color: #ffffff;
      color: #dd0025;
      padding: 5px;
+     margin: 0 auto;
  }
 
  .triangle-bottom {
@@ -121,4 +104,8 @@
   height: 0px;
   border-top: 69px solid  #282c34;
   border-right: 69px solid transparent;
+}
+
+cent {
+    margin: auto;
 }
