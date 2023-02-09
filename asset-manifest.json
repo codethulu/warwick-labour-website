@@ -1,19 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.dea62c83.css",
-    "main.js": "/static/js/main.73cb2562.js",
+    "main.css": "/static/css/main.154284ee.css",
+    "main.js": "/static/js/main.c74c52e9.js",
     "static/js/787.62747516.chunk.js": "/static/js/787.62747516.chunk.js",
     "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
     "static/media/Oswald-VariableFont_wght.ttf": "/static/media/Oswald-VariableFont_wght.7aae63364e12a102a22a.ttf",
     "static/media/TitilliumWeb-Regular.ttf": "/static/media/TitilliumWeb-Regular.522ebad20fa0808ac284.ttf",
+    "static/media/reclaiming-liberalism.md": "/static/media/reclaiming-liberalism.62cec5d36ab23d88b42a.md",
+    "static/media/e-1.md": "/static/media/e-1.e0a7c3f56672b1b724e9.md",
+    "static/media/ucu.md": "/static/media/ucu.ceb275516c701289b65f.md",
+    "static/media/child-poverty.md": "/static/media/child-poverty.243f9717671a1079d3c1.md",
+    "static/media/mid-term.md": "/static/media/mid-term.c8bfe0d8c47a34aae833.md",
+    "static/media/cost-living.md": "/static/media/cost-living.e1be50ffa7ec57c1517f.md",
     "static/media/logo-large.svg": "/static/media/logo-large.b8ef7781041206b3990a.svg",
+    "static/media/climate-2.md": "/static/media/climate-2.e01695e35a48f446b025.md",
+    "static/media/climate-1.md": "/static/media/climate-1.94cd90733ff618bec76c.md",
     "index.html": "/index.html",
-    "main.dea62c83.css.map": "/static/css/main.dea62c83.css.map",
-    "main.73cb2562.js.map": "/static/js/main.73cb2562.js.map",
+    "static/media/Example.md": "/static/media/Example.c05c33e8d3eca3b9e959.md",
+    "main.154284ee.css.map": "/static/css/main.154284ee.css.map",
+    "main.c74c52e9.js.map": "/static/js/main.c74c52e9.js.map",
     "787.62747516.chunk.js.map": "/static/js/787.62747516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dea62c83.css",
-    "static/js/main.73cb2562.js"
+    "static/css/main.154284ee.css",
+    "static/js/main.c74c52e9.js"
   ]
 }

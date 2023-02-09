@@ -1,0 +1,15 @@
+# Speech delivered at the Warwick and Leamington Climate Rally November 2022
+
+Friends and comrades,
+It’s a pleasure to be here today with like minded people, but this is also very scary. As someone who turned 18 last week, I, like many other young people, am terrified about the prospects of our future and everybody around the world, especially those in working class communities who are at most risk from the climate crisis. It is no secret that COP is a way for international leaders to take place in greenwashing; which is defined as ‘disinformation disseminated by an organization so as to present an environmentally responsible public image’, but it is still a way to make key decisions and show as a world we are moving towards a greener future. Our new prime minister did not feel it was necessary to attend, and had to be forced, because his equally awful predecessor was attending. We cannot escape the threat of the climate crisis. It is a war, a dangerous war that we cannot negotiate with.
+
+
+But there are things the government can do, that all governments can do. Our government is failing to invest in the right places, direct taxes towards climate infrastructure, and also insulate homes, which would help with the terrible tory cost of living crisis, egged on by what is happening to our climate.
+It is true there is no ethical consumption under capitalism, but we can make changes in our personal lives, to, if anything, show our solidarity to the eve increasing amount of climate refugees we have across the globe. Human beings like you and me will be displaced at an exponential rate like we have never seen before over the next century.
+
+
+We all saw the terrible floods in Pakistan over the summer, with over 1/3 of the country underwater, we saw the wildfires across the world, including here in Britain, and we’ve seen big business and government cause unprecedented rises in emissions, poisoning our Earth. This is becoming normality. Bangladesh will be nearly underwater by 2100 if this rate of climate change continues. This is unprecedented change that no government in our world is prepared for. However there have been some great symbols for change. Our world has been rapidly electing Socialists and Social Democrats to its governments over the last year, however the threat of the far right, who totally oppose any climate change measures, is scarily present. We have a chance in 2024 to elect a progressive Labour government, and we need to do that for the sake of humanity.
+
+
+As a young person, I am terrified about what my future may hold. We get a bad press, that we are all whiny, middle class climate crisis hobbyists who live off their parents money, but this is simply not the case. A lot of us are very scared, and we notice we need change right now to combat this awful crisis.
+There is one key message we need to convey to people which will be a major step in the right direction in combating this crisis - and that is to never, ever vote Tory. Let’s get the b*stards who are destroying our local, national and international community for money out of office and never let them back in again. Solidarity!
